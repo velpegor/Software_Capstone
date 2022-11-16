@@ -6,6 +6,9 @@
 
 따라서 이러한 가능성을 테스트하기 위해, 익명화 된 데이터에서 얼굴 특징을 재구성하기 위한 GAN을 이용해 익명화된 MRI 이미지를 재구성 할 것이다. 얼굴이 포함된 mri 이미지를 defacing tool(pydeface)을 이용해 reface한 다음 CycleGAN, DCGAN 등 GAN기법을 이용해 refacing에 대한 성능 평가를 진행하고 비교 분석한다.
 
+### 모델
+
+* [CycleGAN](https://github.com/junyanz/pytorch-CycleGAN-and-pix2pix)
 - - - - -
 
 ### Reference
