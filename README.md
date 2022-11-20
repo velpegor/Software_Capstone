@@ -9,6 +9,8 @@
 ### 모델
 
 * [CycleGAN](https://github.com/junyanz/pytorch-CycleGAN-and-pix2pix)
+* [PixelCNN](https://github.com/openai/pixel-cnn)
+
 - - - - -
 
 ### Reference
