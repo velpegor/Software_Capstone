@@ -19,6 +19,7 @@ def nii_to_image(niifile):
 
         # Start converting to an image
         (x, y, z) = img.shape
+        #for i in range(z): #x is the sequence of images
         silce = img_fdata[:, :, 111]  # You can choose which direction of slice
         imageio.imwrite(os.path.join(img_f_path, '{}.jpg'.format(111)), silce) # Save an image 
 
