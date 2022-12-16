@@ -24,10 +24,14 @@
 
 ### 모델 성능 비교
 
+<div align="center">
+
 <img width="764" alt="image" src="https://user-images.githubusercontent.com/83739271/208048341-3ee3294f-95db-4562-8f50-a42a5e7bd6aa.png">
 
 <img width="778" alt="image" src="https://user-images.githubusercontent.com/83739271/208048243-30f5330b-f1f5-4516-b40a-fbc83a6bbdb7.png">
 
+</div>
+  
 ### 결과
 ![image](https://user-images.githubusercontent.com/83739271/207845982-0052fb42-6194-4f72-b4ff-49704edcd2c8.png)
 
