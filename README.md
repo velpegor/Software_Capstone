@@ -20,7 +20,14 @@
 ### 모델
 
 * [CycleGAN](https://github.com/junyanz/pytorch-CycleGAN-and-pix2pix)
+
+<img width="529" alt="image" src="https://user-images.githubusercontent.com/83739271/208051738-56c777e9-74ee-4422-a03c-a55eb1d2dc0d.png">
+
+</br>
+
 * [DCLGAN](https://github.com/JunlinHan/DCLGAN)
+
+<img width="613" alt="image" src="https://user-images.githubusercontent.com/83739271/208051794-ffdaa57c-9393-4985-bd06-8c34ceedd013.png">
 
 ### 모델 성능 비교
 
